@@ -1,60 +1,60 @@
-// // Q1 //
+// Q1 //
 
-// alert("Wasay")
+alert("Wasay")
 
-// // Q2 //
+// Q2 //
 
-// let num = prompt("Enter Your Name")
-// alert("Welcome Your Honor " + num)
+let num = prompt("Enter Your Name")
+alert("Welcome Your Honor " + num)
 
-// // Q3 //
+// Q3 //
 
-// const age = 14
-// alert(age)
+const age = 14
+alert(age)
 
-// // Q4 //
+// Q4 //
 
-// let num1 = prompt("Enter A number")
-// if (num1 >= 0) { alert("Your number in Positive") }
-// else { alert("Your Number is Negative") }
+let num1 = prompt("Enter A number")
+if (num1 >= 0) { alert("Your number in Positive") }
+else { alert("Your Number is Negative") }
+// 
+Q5 //
 
-// Q5 //
-
-// let num1 = prompt("enter your marks")
-// if(num1 >= 50){alert("You are pass good job")}
-// else{alert ("You are a failure")}
+let num1 = prompt("enter your marks")
+if(num1 >= 50){alert("You are pass good job")}
+else{alert ("You are a failure")}
 
 // Q6 //
 
-// let fruits = ["apple","banana","mango","orange","grapes"]
-// console.log(fruits)
+let fruits = ["apple","banana","mango","orange","grapes"]
+console.log(fruits)
 
 // Q7 //
 
-// let colors = []
-// colors.push("red")
-// colors.push("green")
-// colors.push("blue")
-// console.log(colors)
+let colors = []
+colors.push("red")
+colors.push("green")
+colors.push("blue")
+console.log(colors)
 
 // Q8 //
 
-// let language = ["HTML","CSS","JS"]
-// language.pop()
-// console.log(language)
+let language = ["HTML","CSS","JS"]
+language.pop()
+console.log(language)
 
 // Q9 //
 
-// let name = ["Ali","Ahmed","Sara","Ayesha"]
-// console.log(name.length)
+let name = ["Ali","Ahmed","Sara","Ayesha"]
+console.log(name.length)
 
 // Q10 //
 
-// for (let i = 0; i <= 10; i++) { console.log(i) } 
+for (let i = 0; i <= 10; i++) { console.log(i) } 
 
 // Q11 //
 
-// for (let i = 10; i >= 0; i--) { console.log(i) }
+for (let i = 10; i >= 0; i--) { console.log(i) }
 
 // Q12 //
 

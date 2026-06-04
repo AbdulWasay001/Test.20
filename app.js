@@ -125,3 +125,36 @@ for (let j = 1; j < numbers.length; j++) {
 }
 
 alert("smallest number is: " + smallest);
+
+// Q18
+
+let colors = ["red", "green", "blue", "yellow"];
+
+for (let i = colors.length - 1; i >= 0; i--) {
+    document.write(colors[i] + "<br>");
+}
+
+document.write("<br>");
+
+// Q19
+
+let numbers = [-2, 5, -1, 8, 10, -4];
+let count = 0;
+
+for (let i = 0; i < numbers.length; i++) {
+    if (numbers[i] > 0) {
+        count++;
+    }
+}
+
+document.write("Positive Numbers: " + count);
+
+document.write("<br><br>");
+
+// Q20
+
+let cart = ["Milk", "Bread", "Eggs", "Juice"];
+
+for (let i = 0; i < cart.length; i++) {
+    document.write((i + 1) + ". " + cart[i] + "<br>");
+}
